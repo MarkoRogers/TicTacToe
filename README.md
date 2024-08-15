@@ -12,3 +12,4 @@ Updated on improved code efficiency
 Updated on improved code efficiency
 Updated on streamlined conditional logic
 Updated on removed deprecated methods
+Updated on renamed variables for clarity
